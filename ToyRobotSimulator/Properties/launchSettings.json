@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ToyRobotSimulator": {
+      "commandName": "Project",
+      "commandLineArgs": "sample_input_1.txt sample_input_2.txt sample_invalid_commands.txt"
+    }
+  }
+}
